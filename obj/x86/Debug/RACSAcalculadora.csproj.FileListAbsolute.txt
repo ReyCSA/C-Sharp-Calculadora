@@ -1,0 +1,16 @@
+E:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.Form1.resources
+E:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.Properties.Resources.resources
+E:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.csproj.GenerateResource.Cache
+E:\PPD\RACSAcalculadora\RACSAcalculadora\bin\Debug\RACSAcalculadora.exe
+E:\PPD\RACSAcalculadora\RACSAcalculadora\bin\Debug\RACSAcalculadora.pdb
+E:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.exe
+E:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.pdb
+F:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.exe
+F:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.pdb
+F:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.csprojResolveAssemblyReference.cache
+F:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.Form1.resources
+F:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.Properties.Resources.resources
+F:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.csproj.GenerateResource.Cache
+F:\PPD\RACSAcalculadora\RACSAcalculadora\bin\Debug\RACSAcalculadora.exe
+F:\PPD\RACSAcalculadora\RACSAcalculadora\bin\Debug\RACSAcalculadora.pdb
+E:\PPD\RACSAcalculadora\RACSAcalculadora\obj\x86\Debug\RACSAcalculadora.csprojResolveAssemblyReference.cache
